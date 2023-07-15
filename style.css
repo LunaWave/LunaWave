@@ -3,8 +3,8 @@ body {
   justify-content: center;
   align-items: center;
   align-self: center;
-  height: 90vh; /* Reduce the height to leave 5% space at the top */
-  margin: 5%, 5%; /* Push the body 5% down and 5% from each side */
+  height: 90vh;
+  margin: 5%;
 }
 
 .container {
