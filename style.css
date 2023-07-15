@@ -22,10 +22,8 @@ header {
 .nav-links {
   font-family: 'Press Start 2P', monospace;
   display: flex;
-  color: #ca84ff;
   text-align: center;
   justify-content: space-evenly;
-  text-decoration: none;
 }
 
 
@@ -56,4 +54,8 @@ p {
   margin: 25px;
   font-size: 25px;
 }
-  
+
+a {
+  text-decoration: none;
+  color: #ca84ff;
+}
