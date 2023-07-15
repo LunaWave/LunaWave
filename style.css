@@ -21,6 +21,12 @@ header {
   border-radius: 50px;
 }
 
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+
 .container {
   background-color: #b7b7b7;
   justify-content: center;
