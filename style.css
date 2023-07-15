@@ -4,7 +4,7 @@ body {
   align-items: center;
   align-self: center;
   height: 90vh; /* Reduce the height to leave 5% space at the top */
-  margin: 95vh 95%; /* Push the body 5% down and 5% from each side */
+  margin: 5vh 95%; /* Push the body 5% down and 5% from each side */
 }
 
 .container {
