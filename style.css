@@ -17,9 +17,12 @@ body {
 
 h1 {
   font-family: Arial, sans-serif;
-  color: #c100c8;
+  color: #77007b;
   text-align: center;
   font-size: 75px;
 }
-
+p {
+  color: #7b7b7b;
+  margin: 25px;
+}
   
