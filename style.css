@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #030201;
   justify-content: center;
   align-items: center;
   align-self: center;
@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-  background-color: #5b5b5b;
+  background-color: #b7b7b7;
   justify-content: center;
   height: 2500px;
   align-items: center;
@@ -17,9 +17,9 @@ body {
 
 h1 {
   font-family: Arial, sans-serif;
-  color: #333;
+  color: #c100c8;
   text-align: center;
-  font-size: 28px;
+  font-size: 75px;
 }
 
   
