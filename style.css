@@ -19,8 +19,9 @@ header {
 }
 
 .nav-links {
+  font-family: 'Press Start 2P', monospace;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 
@@ -39,6 +40,11 @@ h1 {
   color: #ca84ff;
   text-align: center;
   font-size: 75px;
+}
+.icon {
+  font-family: 'Press Start 2P', monospace;
+  color: #ca84ff;
+  text-align:center;
 }
 p {
   font-family: 'Press Start 2P', monospace;
