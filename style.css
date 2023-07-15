@@ -9,6 +9,12 @@ body {
   margin: 25px;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .container {
   background-color: #b7b7b7;
   justify-content: center;
