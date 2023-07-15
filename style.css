@@ -2,22 +2,20 @@
 
 body {
   background-color: #030201;
-  justify-content: center;
-  align-items: center;
-  align-self: center;
   height: 50px;
+  margin: 0;
 }
 
 header {
   position: fixed;
   top: 0;
   width: 100%;
+  border-radius: 50px;
 }
 
 .headercontainer {
   background-color: #666666;
   height: 75px;
-  border-radius: 50px;
 }
 
 .nav-links {
@@ -28,6 +26,7 @@ header {
 
 .container {
   margin: 25px;
+  margin-top: 50px;
   background-color: #b7b7b7;
   justify-content: center;
   height: 2500px;
