@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P'); /*Import Font*/
+
 body {
   background-color: #030201;
   justify-content: center;
@@ -16,12 +18,13 @@ body {
 }
 
 h1 {
-  font-family: Arial, sans-serif;
+  font-family: 'Press Start 2P', monospace;
   color: #77007b;
   text-align: center;
   font-size: 75px;
 }
 p {
+  font-family: 'Press Start 2P', monospace;
   color: #7b7b7b;
   margin: 25px;
   font-size: 25px;
