@@ -1,2 +1,2 @@
-# LunaWave-Homepage
-The homepage for LunaWave Studio.
+# LunaWave Home
+The home for LunaWave Studio.
