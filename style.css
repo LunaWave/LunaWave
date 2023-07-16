@@ -16,7 +16,7 @@ header {
   background-color: #222;
   height: 75px;
   align-items: center;
-  border-bottom: 4px solid #666;
+  border-bottom: 7px solid #666;
   z-index: 9999;
 }
 
@@ -213,7 +213,7 @@ a {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #3d3846;
+  background: #666;
   display: block;
   pointer-events: none;
 }
