@@ -36,7 +36,8 @@ header {
   margin-top: 100px;
   background-color: #333;
   justify-content: center;
-  height: 2500px;
+  display: inline-flex;
+  padding-bottom: 20px;
   align-items: center;
 }
 
