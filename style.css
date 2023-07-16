@@ -40,6 +40,8 @@ header {
 
 .lunawave {
   color: #FF89B5;
+  font-size: 50px;
+  margin: -15px;
 }
 h1 {
   font-family: 'Press Start 2P', monospace;
