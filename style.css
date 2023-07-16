@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P'); /*Import Font*/
 
 body {
-  background-color: #030201;
+  background-color: #111;
   height: 50px;
   margin: 0;
 }
@@ -10,13 +10,13 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
-  border-radius: 50px;
 }
 
 .headercontainer {
-  background-color: #666666;
+  background-color: #222;
   height: 75px;
   align-items: center;
+  border-bottom: 2px solid #666;
 }
 
 .nav-links {
@@ -30,32 +30,30 @@ header {
 .container {
   margin: 25px;
   margin-top: 100px;
-  background-color: #b7b7b7;
+  background-color: #333;
   justify-content: center;
   height: 2500px;
   align-items: center;
   border-radius: 50px;
 }
-
+.lunarwave {
+  color: #F6C4D2;
+}
 h1 {
   font-family: 'Press Start 2P', monospace;
-  color: #ca84ff;
+  color: #FFF;
   text-align: center;
+  padding-top: 10px;
   font-size: 75px;
-}
-.icon {
-  font-family: 'Press Start 2P', monospace;
-  color: #ca84ff;
-  text-align:center;
 }
 p {
   font-family: 'Press Start 2P', monospace;
-  color: #575757;
+  color: #FFF;
   margin: 25px;
   font-size: 25px;
 }
 
 a {
   text-decoration: none;
-  color: #ca84ff;
+  color: #FFF;
 }
